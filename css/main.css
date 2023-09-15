@@ -1,0 +1,5 @@
+.mtitle {
+    display: grid;
+    place-items: center; /* Center both horizontally and vertically */
+    height: 100vh; 
+}
