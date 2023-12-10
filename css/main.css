@@ -1,5 +1,13 @@
-.mtitle {
-    display: grid;
-    place-items: center; /* Center both horizontally and vertically */
-    height: 100vh; 
+h1 {
+    margin: 10px; /* Optional margin if needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; /* This will center vertically within the viewport */
+}
+h2 {
+    padding-left: 100px ;
+    sixe
+}
+.description{
 }
