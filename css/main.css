@@ -1,13 +1,26 @@
 h1 {
-    margin: 10px; /* Optional margin if needed */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 20vh; /* This will center vertically within the viewport */
+
+  /* Optional margin if needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  /* This will center vertically within the viewport */
 }
-h2 {
-    padding-left: 100px ;
-    sixe
+
+h3 {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+  /*centers all h3 text on main page*/
+
 }
-.description{
+
+
+.gutters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  /*centers large picture*/
 }
